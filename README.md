@@ -3,7 +3,7 @@ In this repository all c++ programs are present.
 
 //First.cpp:
 <br>
-In the above file we can display Jay Ganesh on console usig C++ programming language.  
+In the above file we can display Jay Ganesh on console by using C++ programming language.  
 <br>
 <br>
 //OOP.cpp
@@ -13,3 +13,4 @@ In the above file we can display Jay Ganesh on console usig C++ programming lang
 //OOPXX.cpp
 <br>
 In the above metioned files we perform arithematic operation like addition and substraction.And also we used default and parameterised constructors in the class Arithematic.
+
